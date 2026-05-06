@@ -90,4 +90,15 @@ gccjit gcc-13 \
 ```
 
 
+## gccjit
+
+https://gcc.gnu.org/onlinedocs/jit/cp/topics/objects.html
+https://gcc.gnu.org/onlinedocs/jit/topics/functions.html
+https://gcc.gnu.org/onlinedocs/jit/cp/intro/tutorial04.html
+https://gcc.gnu.org/onlinedocs/jit/cp/topics/functions.html#_CPPv4N6gccjit8function11dump_to_dotEPKc
+https://gcc.gnu.org/onlinedocs/jit/cp/topics/functions.html#_CPPv4N6gccjit5case_E
+https://gcc.gnu.org/onlinedocs/jit/cp/intro/tutorial03.html
+https://gcc.gnu.org/onlinedocs/jit/cp/topics/expressions.html#_CPPv4N6gccjit6rvalueE
+
+
 
