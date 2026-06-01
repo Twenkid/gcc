@@ -100,5 +100,9 @@ https://gcc.gnu.org/onlinedocs/jit/cp/topics/functions.html#_CPPv4N6gccjit5case_
 https://gcc.gnu.org/onlinedocs/jit/cp/intro/tutorial03.html
 https://gcc.gnu.org/onlinedocs/jit/cp/topics/expressions.html#_CPPv4N6gccjit6rvalueE
 
+c++
+
+https://github.com/gcc-mirror/gcc/blob/master/gcc/jit/libgccjit%2B%2B.h
+https://github.com/gcc-mirror/gcc/blob/master/gcc/jit/libgccjit.cc
 
 
